@@ -1,5 +1,6 @@
-*								@cybermerlin @dm-rybalchenko
-public/*				@cybermerlin
-docs/*					@cybermerlin
-.github/*				@cybermerlin
-.git/hooks/*		@cybermerlin
+*				@cybermerlin
+
+[RULES][2]		@cybermerlin
+CODEOWNERS
+/.github/
+/.git/hooks/
