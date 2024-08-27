@@ -9,7 +9,6 @@ Need - quick save data from tables. Nobody knows how many columns can be in tabl
 
 ## Considered Options
 
-* GraphQL
 * MySQL
 * PostgreSQL
 * ClickHouse
@@ -20,4 +19,4 @@ Need - quick save data from tables. Nobody knows how many columns can be in tabl
 
 ## Decision Outcome
 
-Chosen option: "GraphQL", because easy to use and have some libraries with client and server components to start to use.
+Chosen option: "Redis", because easy to use and have some libraries with client and server components to start to use.
